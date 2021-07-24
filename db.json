@@ -4,23 +4,46 @@
   {
     "id": 0,
     "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 0"
+    "external_url": "https://nft.saurav.io",
+    "image": "https://s3.amazonaws.com/saurav.io/my-portraits-pixelchain-02/portrait-2.png",
+    "name": "My NFT 0",
+    "attributes":[{"trait_type":"Type","value":"Male"},{"trait_type":"Background","value":"Contessa"},
+      {"trait_type":"Body","value":"Pale Troll"},{"trait_type":"Clothes","value":"Sand Doge-Sweater"},
+      {"trait_type":"Clothes","value":"Brown Leather Suspenders"},{"trait_type":"Eyes","value":"Smoked"},
+      {"trait_type":"Mouth","value":"Brown Beard"},{"trait_type":"Nose","value":"Funnel"},
+      {"trait_type":"Hair","value":"Arrows"}]
+
+
+
+
   },
   {
     "id": 1,
     "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 1"
+    "external_url": "https://nft.saurav.io",
+    "image": "https://s3.amazonaws.com/saurav.io/my-portraits-pixelchain-02/portrait-3.png",
+    "name": "My NFT 1",
+    "attributes":[{"trait_type":"Type","value":"Male"},{"trait_type":"Background","value":"Contessa"},
+      {"trait_type":"Body","value":"Pale Troll"},{"trait_type":"Clothes","value":"Sand Doge-Sweater"},
+      {"trait_type":"Clothes","value":"Brown Leather Suspenders"},{"trait_type":"Eyes","value":"Smoked"},
+      {"trait_type":"Mouth","value":"Brown Beard"},{"trait_type":"Nose","value":"Funnel"},
+      {"trait_type":"Hair","value":"Arrows"}]
+
+
   },
   {
     "id": 2,
     "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
+    "external_url": "https://nft.saurav.io",
+    "image": "https://s3.amazonaws.com/saurav.io/my-portraits-pixelchain-02/portrait-4.png",
+    "name": "My NFT 2",
+    "attributes":[{"trait_type":"Type","value":"Male"},{"trait_type":"Background","value":"Contessa"},
+      {"trait_type":"Body","value":"Pale Troll"},{"trait_type":"Clothes","value":"Sand Doge-Sweater"},
+      {"trait_type":"Clothes","value":"Brown Leather Suspenders"},{"trait_type":"Eyes","value":"Smoked"},
+      {"trait_type":"Mouth","value":"Brown Beard"},{"trait_type":"Nose","value":"Funnel"},
+      {"trait_type":"Hair","value":"Arrows"}]
+
+      
   }
 ]
 }
